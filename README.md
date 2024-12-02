@@ -6,7 +6,7 @@ O projeto tem como objetivo criar um eBook interativo sobre o sucesso dos dorama
 ## 🤖 Tecnologias Utilizadas
 PT-3 (OpenAI): Usado para gerar o conteúdo textual sobre o sucesso dos doramas, explorando tópicos como o crescimento do gênero no Brasil, a relação com a cultura asiática e o impacto nas redes sociais.
 Leonardo AI: Utilizado para criar as ilustrações personalizadas para o eBook. Com essa ferramenta, foram geradas imagens baseadas em descrições específicas do conteúdo, como personagens de dorama, cenas icônicas, fãs assistindo e momentos de interação nas redes sociais.
-Canva: Para a diagramação e formatação do eBook, incorporando o texto gerado pelo GPT-3 e as imagens criadas no Leonardo AI. O Canva também foi utilizado para adicionar detalhes visuais e tornar o layout mais dinâmico e atraente.
+ArtGuru AI: usado para criar imagens personalizadas
 Adobe Acrobat: Para converter o eBook final em um formato PDF interativo, que inclui imagens e texto, facilitando a distribuição online.
 
 
@@ -32,3 +32,4 @@ As imagens criadas pelo Leonardo AI deram um toque visual único ao eBook, torna
 
 ## 💭 Reflexão (Opcional)
 extremamente desafiador... o primeiro olhar foi de total desconfiança no processo, mas no final foi muito satisfatório ver o resultado final!
+[ebook dio.pdf](https://github.com/user-attachments/files/17984952/ebook.dio.pdf)
