@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Sucesso dos Doramas no Brasil
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto tem como objetivo criar um eBook interativo sobre o sucesso dos doramas no Brasil. O conteúdo explora o crescimento desse fenômeno cultural no país, destacando os fatores que contribuíram para sua popularidade, o impacto nas comunidades de fãs e as perspectivas futuras. Além de apresentar o conteúdo escrito, o eBook inclui ilustrações geradas com Leonardo AI, representando cenas de doramas, personagens e interações de fãs, proporcionando uma experiência visual imersiva. O eBook visa atrair tanto novos espectadores quanto fãs dedicados dos doramas, educando-os sobre o impacto cultural dessa tendência.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+PT-3 (OpenAI): Usado para gerar o conteúdo textual sobre o sucesso dos doramas, explorando tópicos como o crescimento do gênero no Brasil, a relação com a cultura asiática e o impacto nas redes sociais.
+Leonardo AI: Utilizado para criar as ilustrações personalizadas para o eBook. Com essa ferramenta, foram geradas imagens baseadas em descrições específicas do conteúdo, como personagens de dorama, cenas icônicas, fãs assistindo e momentos de interação nas redes sociais.
+Canva: Para a diagramação e formatação do eBook, incorporando o texto gerado pelo GPT-3 e as imagens criadas no Leonardo AI. O Canva também foi utilizado para adicionar detalhes visuais e tornar o layout mais dinâmico e atraente.
+Adobe Acrobat: Para converter o eBook final em um formato PDF interativo, que inclui imagens e texto, facilitando a distribuição online.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+lanejamento do Conteúdo: Primeiramente, definimos os tópicos que seriam abordados no eBook, como a introdução ao mundo dos doramas, o sucesso dos K-Dramas no Brasil, o impacto cultural e as perspectivas futuras. O texto foi escrito de forma envolvente e informativa, utilizando o GPT-3 para garantir que o conteúdo fosse claro e interessante.
+
+Geração das Ilustrações: Para complementar o conteúdo, criamos ilustrações com o Leonardo AI. Utilizamos descrições detalhadas para gerar imagens de:
+
+Personagens de dorama (um casal protagonista, por exemplo);
+Cenas emocionantes de doramas;
+Fãs assistindo doramas em um ambiente social, como uma reunião de fãs assistindo juntos;
+Momentos de interação nas redes sociais, com fãs discutindo sobre o último episódio.
+A ferramenta foi configurada para gerar imagens que fossem esteticamente agradáveis e fizessem jus ao estilo visual típico dos doramas.
+
+Formatação do eBook: Usamos o Canva para organizar o conteúdo textual e inserir as imagens geradas pelo Leonardo AI. Ajustamos o layout das páginas para criar uma experiência visual fluida, com espaço adequado para o texto e imagens, além de garantir uma boa legibilidade.
+
+Conversão para PDF: Após a finalização da diagramação, exportamos o eBook para PDF usando o Adobe Acrobat, garantindo que todas as imagens e textos estivessem bem posicionados para visualização em diferentes dispositivos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado final foi a criação de um eBook interativo e bem elaborado que oferece aos leitores uma visão detalhada sobre o sucesso dos doramas no Brasil. O conteúdo foi dividido em 4 páginas com texto envolvente e ilustrações personalizadas que ajudam a contar a história de como os doramas conquistaram o público brasileiro.
+
+As imagens criadas pelo Leonardo AI deram um toque visual único ao eBook, tornando-o mais atrativo e dinâmico. Além disso, a diagramação feita no Canva garantiu um layout agradável e fácil de ler. O eBook está pronto para ser distribuído digitalmente em plataformas como sites, blogs e redes sociais.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+extremamente desafiador... o primeiro olhar foi de total desconfiança no processo, mas no final foi muito satisfatório ver o resultado final!
